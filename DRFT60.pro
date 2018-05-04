@@ -1,4 +1,4 @@
-update=Friday, May 04, 2018 'PMt' 02:31:52 PM
+update=Friday, May 04, 2018 'PMt' 04:40:29 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -29,7 +29,7 @@ version=1
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=/Users/kyle/src/kicad_lib_tmk/keyboard_parts
+LibName1=libraries/kicad_lib_tmk/keyboard_parts
 LibName2=power
 LibName3=device
 LibName4=transistors
