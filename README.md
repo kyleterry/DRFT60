@@ -5,5 +5,5 @@ in a keyboard for use in programming and gaming.
 
 ## Layouts
 
-![Default DRFT60 Layout](images/default-layout.png)
+![Default DRFT60 Layer](images/default-layer.png)
 
